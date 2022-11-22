@@ -1,0 +1,21 @@
+{
+  "name": "@buttress/snippets",
+  "description": "ButtressJS Snippets for ButtressJS Lambdas",
+  "version": "1.0.0",
+  "author": "Lighten",
+  "contributors": [
+    "Chris Bates-Keegan <chris@wearelighten.co.uk>"
+  ],
+  "homepage": "https://github.com/wearelighten/buttress-js-snippet/",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wearelighten/buttress-js-snippet"
+  },
+  "bugs": {
+    "url": "https://github.com/wearelighten/buttress-js-snippet/issues"
+  },
+  "engines": {
+    "node": ">=14.x.x"
+  }
+}
