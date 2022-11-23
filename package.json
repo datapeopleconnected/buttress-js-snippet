@@ -17,5 +17,6 @@
   },
   "engines": {
     "node": ">=14.x.x"
-  }
+  },
+  "main": "./lib/snippets"
 }
