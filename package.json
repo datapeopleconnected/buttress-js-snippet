@@ -1,7 +1,7 @@
 {
   "name": "@buttress/snippets",
   "description": "ButtressJS Snippets for ButtressJS Lambdas",
-  "version": "1.0.0-21",
+  "version": "1.0.0-22",
   "author": "Lighten",
   "contributors": [
     "Chris Bates-Keegan <chris@wearelighten.co.uk>"
