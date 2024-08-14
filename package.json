@@ -4,13 +4,13 @@
   "version": "1.0.0-24",
   "author": "Data People Connected LTD",
   "license": "AGPL-3.0-or-later",
-  "homepage": "https://github.com/wearelighten/buttress-js-snippet/",
+  "homepage": "https://github.com/datapeopleconnected/buttress-js-snippet/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wearelighten/buttress-js-snippet"
+    "url": "git+https://github.com/datapeopleconnected/buttress-js-snippet"
   },
   "bugs": {
-    "url": "https://github.com/wearelighten/buttress-js-snippet/issues"
+    "url": "https://github.com/datapeopleconnected/buttress-js-snippet/issues"
   },
   "engines": {
     "node": ">=18.x.x"
