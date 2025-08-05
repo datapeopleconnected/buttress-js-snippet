@@ -21,6 +21,6 @@
   },
   "scripts": {
     "licence-check": "./.husky/licence-check",
-    "prepare": "husky"
+    "prepare": "husky install && [ -f ./.husky/nvm-fix ] && ./.husky/nvm-fix || true"
   }
 }
