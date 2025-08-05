@@ -1,7 +1,7 @@
 {
   "name": "@buttress/snippets",
   "description": "ButtressJS Snippets for ButtressJS Lambdas",
-  "version": "1.0.0-28",
+  "version": "1.0.0-29",
   "author": "Data People Connected LTD",
   "license": "AGPL-3.0-or-later",
   "homepage": "https://github.com/datapeopleconnected/buttress-js-snippet/",
@@ -21,6 +21,6 @@
   },
   "scripts": {
     "licence-check": "./.husky/licence-check",
-    "prepare": "husky"
+    "prepare": "husky install && [ -f ./.husky/nvm-fix ] && ./.husky/nvm-fix || true"
   }
 }
